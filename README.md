@@ -1,2 +1,2 @@
 # linearRegression
-Projects related to linear regression
+Projects based on linear regression.
